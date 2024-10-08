@@ -1,6 +1,5 @@
 # FenryStreamsport
-
-
+----------------------------------------------
 FenryStreamsport is a streaming service that was developed by FSGS. You can stream all your favorite shows on any platform, including Netflix, Peacock, Tubi, Hulu, Disney+, and more!
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## About Streamsport
