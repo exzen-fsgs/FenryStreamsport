@@ -1,1 +1,15 @@
-
+#Navigation {
+background-color: RGB(0, 0, 200);
+color: RGB(255, 255, 255);
+}
+.button {
+background-color: RGB(0, 0, 255);
+color: RGB(255, 255, 255);
+border-radius: 12px;
+}
+body {
+background-image: url("");  
+  /* Blur effect code
+filter: blur(8px);
+-webkit-filter: blur(8px);
+}
