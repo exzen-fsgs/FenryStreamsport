@@ -3,7 +3,8 @@
 ![Streamsport Banner](https://github.com/user-attachments/assets/12a792b6-f297-474e-a810-b3e1b8ca36b9)
 
 ### Brief Description
-FenryStreamsport is a streaming service that was developed by FSGS. You can stream all your favorite shows on any platform, including Netflix, Peacock, Tubi, Hulu, Disney+, and more!
+
+\FenryStreamsport is a streaming service that was developed by FSGS. You can stream all your favorite shows on any platform, including Netflix, Peacock, Tubi, Hulu, Disney+, and more!
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## About Streamsport
 Streamsport was created in 2024 by FenrSupersport Gaming Studios. It was created by the CEO, Exzen, as an idea for a system to just use the online versions of many streaming services, and put them into a service.
