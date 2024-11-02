@@ -28,7 +28,7 @@ Vote for what should be added to this service with the form on the Vote page, li
 
 -----------------------------------------------------------------------------------------------
 
-## Pricavy Policy
+## Privacy Policy
 
 Streamsport is for use by all. If you happen to have problems with Streamsport, please contact us. If you have data leakages by using Streamsport, we assume no responsibility and you will be blamed for it.
 
